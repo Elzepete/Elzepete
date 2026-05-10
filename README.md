@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi i am Samuel!!
++ Systems Engineer Studen in EAFIT University 🇨🇴
++ Ciberseguridad 💻
++ Python 🐍
++ Redes 🛜
 
-<!--
-**Elzepete/Elzepete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔗 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-zapata-vargas/)
+
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elzepete&theme=github-dark&mode=weekly)
