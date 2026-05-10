@@ -1,8 +1,8 @@
 # Hi i am Samuel!!
 + Systems Engineer Studen in EAFIT University 🇨🇴
-+ Ciberseguridad 💻
++ Cybersecurity 💻
 + Python 🐍
-+ Redes 🛜
++ Networking 🛜
 
 
 ## 🔗 Links
