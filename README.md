@@ -1,5 +1,5 @@
 # Hi i am Samuel!!
-+ Systems Engineer Studen in EAFIT University 🇨🇴
++ Systems Engineer Student in EAFIT University 🇨🇴
 + Cybersecurity 💻
 + Python 🐍
 + Networking 🛜
